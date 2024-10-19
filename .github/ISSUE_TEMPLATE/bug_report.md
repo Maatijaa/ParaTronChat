@@ -27,7 +27,7 @@ Write version you used of plugin at the time.
 
 - write here
 
-**What version of Minecraft you were using at the time (example 1.18.2)
+**What version of Minecraft you were using at the time (example 1.18.2)**
 
 - write here
 
